@@ -1,0 +1,5 @@
+# ignore by git
+pytb-doc-18
+demo
+*.zip
+*.pyc
